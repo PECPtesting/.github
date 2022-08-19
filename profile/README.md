@@ -17,8 +17,8 @@
 - [Styleguide for R](https://style.tidyverse.org/syntax.html) 
 - [Good enough practice in scientific computing](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510) by Wilson *et al.* is a paper about the basic "lab" skills for computation. 
 - ... ? 
-- [R for data science](https://r4ds.had.co.nz/index.html)
-- [Advanced R](https://adv-r.hadley.nz/) 
+- Book: [R for data science](https://r4ds.had.co.nz/index.html)
+- Book: [Advanced R](https://adv-r.hadley.nz/) Currently discussed in the bookclub
 
 
 ## PECP projects to share
