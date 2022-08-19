@@ -5,6 +5,8 @@
 Basic tasks to perform before getting the first members started.
 
 - [ ] Change Organization title 
+- [ ] Add organization picture 
+- [ ] Add contact people 
 - [ ] Adapt repository template folder 
 - [ ] Decide on rights for members and who can add them
     - [ ] state on the profile page
@@ -13,8 +15,8 @@ Basic tasks to perform before getting the first members started.
   - Using other peoples codes 
   - Raising issues, ideas and comments 
 - [ ] Find a good link describing how to set up git on the PC and put it on the profile page
-- [ ] add gitignore file to main repository, [example](https://ourcodingclub.github.io/tutorials/git-for-labs/#organise)
-- [ ] contact people 
+- [ ] add gitignore file to main repository [example](https://ourcodingclub.github.io/tutorials/git-for-labs/#organise)
+
 
 
 ### Future considerations
