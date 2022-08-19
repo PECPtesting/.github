@@ -19,4 +19,5 @@ Basic tasks to perform before getting the first members started.
 
 ### Future considerations
 
-- [ ] Register the organisation as a research group for free private repositories ([as explained here]((https://www.ucl.ac.uk/isd/how-to/how-to-setup-github-for-research-project)))
+- [ ] Register the organisation as a research group for free private repositories [here](https://www.ucl.ac.uk/isd/how-to/how-to-setup-github-for-research-project)
+- [ ] encourage commenting in the discussion board
